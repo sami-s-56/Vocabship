@@ -1,4 +1,4 @@
-﻿using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Audio;
@@ -6,6 +6,8 @@ using UnityEngine.UI;
 
 public class SFXMangHan : MonoBehaviour {
 
+    /** Contributed by Team Member */
+    
     public AudioMixer SFXMixer;
 
     public Slider SFX;
