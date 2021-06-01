@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: e4624d4f62cf25d40a7fdf7119b31914
+timeCreated: 1538044565
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Symphony in ABC
+  fontNames:
+  - Symphony in ABC
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

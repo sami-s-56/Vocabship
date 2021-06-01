@@ -1,0 +1,287 @@
+fileFormatVersion: 2
+guid: 509cf7c56f64872418b2821a72198052
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: cockpit2_usemtl_1
+    100002: cockpit2_usemtl_2
+    100004: cockpit2_usemtl_3
+    100006: cockpit2_usemtl_4
+    100008: couplers__1
+    100010: cushion_usemtl_1
+    100012: dash_usemtl_1
+    100014: dash_usemtl_2
+    100016: dash_usemtl_3
+    100018: dash_usemtl_4
+    100020: door_usemtl_1
+    100022: door_usemtl_2
+    100024: green__1
+    100026: lights.2_mesh01_1
+    100028: mesh01
+    100030: mesh01_MeshPart0
+    100032: mesh01_MeshPart1
+    100034: propulsion_usemtl_1
+    100036: red_mesh01_1
+    100038: windshield_usemtl_1
+    100040: windshield_usemtl_2
+    100042: //RootNode
+    400000: cockpit2_usemtl_1
+    400002: cockpit2_usemtl_2
+    400004: cockpit2_usemtl_3
+    400006: cockpit2_usemtl_4
+    400008: couplers__1
+    400010: cushion_usemtl_1
+    400012: dash_usemtl_1
+    400014: dash_usemtl_2
+    400016: dash_usemtl_3
+    400018: dash_usemtl_4
+    400020: door_usemtl_1
+    400022: door_usemtl_2
+    400024: green__1
+    400026: lights.2_mesh01_1
+    400028: mesh01
+    400030: mesh01_MeshPart0
+    400032: mesh01_MeshPart1
+    400034: propulsion_usemtl_1
+    400036: red_mesh01_1
+    400038: windshield_usemtl_1
+    400040: windshield_usemtl_2
+    400042: //RootNode
+    2300000: cockpit2_usemtl_1
+    2300002: cockpit2_usemtl_2
+    2300004: cockpit2_usemtl_3
+    2300006: cockpit2_usemtl_4
+    2300008: couplers__1
+    2300010: cushion_usemtl_1
+    2300012: dash_usemtl_1
+    2300014: dash_usemtl_2
+    2300016: dash_usemtl_3
+    2300018: dash_usemtl_4
+    2300020: door_usemtl_1
+    2300022: door_usemtl_2
+    2300024: green__1
+    2300026: lights.2_mesh01_1
+    2300028: mesh01_MeshPart0
+    2300030: mesh01_MeshPart1
+    2300032: propulsion_usemtl_1
+    2300034: red_mesh01_1
+    2300036: windshield_usemtl_1
+    2300038: windshield_usemtl_2
+    3300000: cockpit2_usemtl_1
+    3300002: cockpit2_usemtl_2
+    3300004: cockpit2_usemtl_3
+    3300006: cockpit2_usemtl_4
+    3300008: couplers__1
+    3300010: cushion_usemtl_1
+    3300012: dash_usemtl_1
+    3300014: dash_usemtl_2
+    3300016: dash_usemtl_3
+    3300018: dash_usemtl_4
+    3300020: door_usemtl_1
+    3300022: door_usemtl_2
+    3300024: green__1
+    3300026: lights.2_mesh01_1
+    3300028: mesh01_MeshPart0
+    3300030: mesh01_MeshPart1
+    3300032: propulsion_usemtl_1
+    3300034: red_mesh01_1
+    3300036: windshield_usemtl_1
+    3300038: windshield_usemtl_2
+    4300000: cockpit2_usemtl_1
+    4300002: cockpit2_usemtl_2
+    4300004: cockpit2_usemtl_3
+    4300006: cockpit2_usemtl_4
+    4300008: couplers__1
+    4300010: cushion_usemtl_1
+    4300012: dash_usemtl_1
+    4300014: dash_usemtl_2
+    4300016: dash_usemtl_3
+    4300018: dash_usemtl_4
+    4300020: door_usemtl_1
+    4300022: door_usemtl_2
+    4300024: green__1
+    4300026: lights.2_mesh01_1
+    4300028: mesh01_MeshPart0
+    4300030: mesh01_MeshPart1
+    4300032: propulsion_usemtl_1
+    4300034: red_mesh01_1
+    4300036: windshield_usemtl_1
+    4300038: windshield_usemtl_2
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: default
+    second: {fileID: 2100000, guid: b38fee7b6f3d34a4fb32b1c83ef5dbd2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: material_1
+    second: {fileID: 2100000, guid: 1436ec4883d687246b86b0b67912f472, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: material_1_blue_joystick
+    second: {fileID: 2100000, guid: 6bfaf5f5dba83ea4f8bb29797da7919b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: material_1_cockpit
+    second: {fileID: 2100000, guid: a0bbff387f89f4142825834133caba9a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: material_1_couplers
+    second: {fileID: 2100000, guid: 4bcb438a688128647bdf967bb891278a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: material_1_cushion
+    second: {fileID: 2100000, guid: 8577481e82faeaa4c96ab4e601758784, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: material_1_displays
+    second: {fileID: 2100000, guid: 49f9f57eb796a654290c75f975fedc2a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: material_1_door
+    second: {fileID: 2100000, guid: acbc3fcd95ff0af4ebd39fc7f686814f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: material_1_green
+    second: {fileID: 2100000, guid: 123f40024a7f7374595de8fb2b846af5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: material_1_lights
+    second: {fileID: 2100000, guid: 204c8215a7bea9d4abb8f55d165a0259, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: material_1_propulsion
+    second: {fileID: 2100000, guid: f50e7055cd3dd394595fd4a616b334d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: material_1_red
+    second: {fileID: 2100000, guid: 65afd9f0997d2b1449a6b8759c17d081, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: material_1_red_joystick
+    second: {fileID: 2100000, guid: 7f07863546006e04b8e55ea00d41a147, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: material_1_windshield_glass
+    second: {fileID: 2100000, guid: 746debe28b14f1e40ba3d8a4f5b9959a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: material_1_windshield_liner
+    second: {fileID: 2100000, guid: ffc2f9a0f7f777f41bab3a88a4cea8c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: material_2
+    second: {fileID: 2100000, guid: 8608ce3a6bc35234db6e5263ff2093d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: material_2_door
+    second: {fileID: 2100000, guid: ec6700a54aa3ec643bf456df27685fcb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: material_3
+    second: {fileID: 2100000, guid: fa8833c9fc1091b458bc5a09b4fdb1f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: material_4
+    second: {fileID: 2100000, guid: 2cfa07e95e0c6594c8f1c3e1af7e21f9, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

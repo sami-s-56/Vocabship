@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: e3fb7ab8d07d7e84eacd82f04f809a38
+timeCreated: 1538044565
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: the dark
+  fontNames:
+  - the dark
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a46782a537be97e4698b2fda6b8001ce, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

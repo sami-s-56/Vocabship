@@ -1,0 +1,14 @@
+for Gyroscope:
+ 3 variables: Gyroscope gyro, GameObject cameraContainer (probably camera parent) and Quaternion rotation
+
+for Camera:
+WebCamTexture texture, RawImage projectionPlane, AspectRationFilter size
+
+Setup:
+ instantiate cameraContainer and make it parent of our Camera
+ set our Cameras position to cameraContainer
+ enable gyro
+  Initialize camera texture as:
+  texture = new WebCamTexture(...,Screen.width,Screen.height)
+
+for update better refer video
