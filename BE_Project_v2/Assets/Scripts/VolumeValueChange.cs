@@ -4,6 +4,8 @@ using UnityEngine.UI;
 
 public class VolumeValueChange : MonoBehaviour {
 
+    /** Contributed by Team Member */
+    
     public AudioMixer BGMusicMixer;
 
     public Slider MusicSlider;
